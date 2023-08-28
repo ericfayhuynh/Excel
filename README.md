@@ -9,7 +9,7 @@ I'm using Excel to perform a variety of operations on this dataset. My tasks inc
 ### Summary
 In the project, I applied conditional formatting to highlight the outcomes and funding percentages of each campaign. I added new columns to calculate metrics such as 'Percent Funded' and 'Average Donation.' To dive deeper into the data, I utilized pivot tables and charts, focusing on different criteria like the category of the campaign and its launch date. Finally, I performed a statistical analysis of the dataset to understand the distribution of the number of backers for both successful and unsuccessful campaigns. These steps allowed me to conduct a comprehensive analysis of the dataset and gain valuable insights into the factors affecting crowdfunding success.
 
-### Tools and Technologies Used
+### Tools and Technologies
 Microsoft Excel
 
 ### Data Source
